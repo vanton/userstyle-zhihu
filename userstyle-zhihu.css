@@ -234,4 +234,8 @@ html.no-touchevents .zm-topic-cat-main li:hover a,
 .zh-footer {
 	font-size: 12px;
 }
+.modal-dialog-title-text,
+.modal-dialog-title-close {
+	color: #fff;
+}
 }
