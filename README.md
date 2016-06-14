@@ -10,6 +10,9 @@
 3. 前往 [zhihu平面化 - Themes and Skins for Zhihu - userstyles.org](https://userstyles.org/styles/121696/zhihu) 安装。
 
 ## 更新记录
+### 20160614:
+修正了专栏文章内查看对话的文字颜色。
+
 ### 20160613-c:
 修复了我的文章投票按钮的错位。
 各种错位。。。
