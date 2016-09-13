@@ -19,6 +19,7 @@
         top: 8px;
     }
     /*WTF*/
+
     .zu-top {
         background-image: none;
         border-bottom: none;
@@ -123,10 +124,13 @@
         clear: both;
     }
     html.no-touch .zm-votebar .up:hover,
-    html.no-touch .zm-votebar .down:hover,
-    .zm-votebar .up.pressed,
-    .zm-votebar .down.pressed {
+    .zm-votebar .up.pressed {
         background: #2980b9;
+        color: #fff;
+    }
+    html.no-touch .zm-votebar .down:hover,
+    .zm-votebar .down.pressed {
+        background: #ac3e40;
         color: #fff;
     }
     .zm-votebar {
